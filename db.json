@@ -1,4 +1,4 @@
-[
+{
   {
     "road": 1,
     "vehicles": 3",
@@ -17,4 +17,4 @@
     "fog": true,
     "water loggage": false
   }
-]
+}
