@@ -1,4 +1,5 @@
- [
+ {
+  "posts": [
     {
       "road": 1,
       "vehicles": 50,
@@ -17,4 +18,7 @@
        "fog": true,
        "water loggage":true
     }
- ]
+ ],
+  "comments": {},
+  "profile": {}
+}
