@@ -4,19 +4,19 @@
       "road": 1,
       "vehicles": 50,
       "fog": true,
-      "water loggage":false
+      "waterloggage":false
     },
     {
        "road": 2,
       "vehicles": 50,
       "fog": false,
-      "water loggage":false
+      "waterloggage":false
     },
     {
        "road": 3,
        "vehicles": 60,
        "fog": true,
-       "water loggage":true
+       "waterloggage":true
     }
  ],
   "comments": {},
